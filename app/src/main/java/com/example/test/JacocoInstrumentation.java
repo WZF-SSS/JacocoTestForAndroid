@@ -55,7 +55,6 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
 
     @Override
     public void onStart() {
-        Log.d(TAG, ">>>>>>>>>>>>test3");
         super.onStart();
         Looper.prepare();
         InstrumentedActivity activity = (InstrumentedActivity) startActivitySync(mIntent);
@@ -63,7 +62,6 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
     }
 
     private String getCoverageFilePath() {
-        Log.d(TAG, ">>>>>>>>>>>>test4");
         if (mCoverageFilePath == null) {
             return DEFAULT_COVERAGE_FILE_PATH;
         } else {
@@ -73,7 +71,6 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
 
     private void generateCoverageReport() {
         File mCoverageFilePath = new File(DEFAULT_COVERAGE_FILE_PATH);
-        Log.d(TAG, ">>>>>>>>>>>>test5");
         Log.d(TAG, "generateCoverageReport():" + getCoverageFilePath());
         OutputStream out = null;
         try {
@@ -105,18 +102,15 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
 
     @Override
     public void onActivityFinished() {
-        Log.d(TAG, ">>>>>>>>>>>>test6");
         if (LOGD)      Log.d(TAG, "onActivityFinished()");
         if (mCoverage) {
             generateCoverageReport();
 
         }
-        finish(Activity.RESULT_OK, mResults);
+        // finish(Activity.RESULT_OK, mResults);
     }
 
     @Override
     public void dumpIntermediateCoverage(String filePath) {
-
-        Log.d(TAG, ">>>>>>>>>>>>test7");
     }
 }

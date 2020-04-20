@@ -30,7 +30,6 @@ class UploadService extends Thread{
                 .build();
 
         Call call = client.newCall(request);
-        Log.d(">>>>>>>>>>>>test777", ">>>>>>>>>>>>test---77------"+url);
         call.enqueue(new Callback() {
 
             @Override
@@ -41,7 +40,6 @@ class UploadService extends Thread{
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 String result = response.body().string();
-                Log.d(">>>>>>>>>>>>test999", ">>>>>>>>>>>>test---88------"+result);
             }
     });
     }
