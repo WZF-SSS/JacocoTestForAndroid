@@ -1,0 +1,4 @@
+#Mon Apr 20 13:03:54 CST 2020
+base.0=/Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

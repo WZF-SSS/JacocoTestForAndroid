@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/515bd9b8e32d1ac7946e76452c270b11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e4ca4509eebfc6f7d322bbff247581a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2e306e8a232b96563bf53d006582dfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc6fc694a5b5d64df7befa26d1724129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/633a7d88765b43b12ea1e90688fcddec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70adb28b60adcfa3beefa8d3fce08495/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72aace34148b1910a119d005c274e501/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1a3c5e585339f261e6af677f10c3cd95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1f7e6834f2c088dcfba8189956118f84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/392592db2a2fb01add96eb7c9591f401/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bee659e4b1cf2504e0dfa3b42f544807/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3500a014ca9b601f4855a88b1bbab989/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/36e68200353ebd6c944bd72e24329b76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9f1db065929e3d4c19832ab8c43beb32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01d317d9cbc5208bd591e8bb9e8c2bad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bf73d1000101d68cf48df9fff1c0351e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dcc38c853057164286cb21c85262c5d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d5831dd4cffaa3a90b266f9a8e1859f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5cbd6b6c1cee4187eee8bebf4a317c83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92a5a76627264e80c987806a8955e23c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338e38b7b652ac895447512de85c0f21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/baccb5ac8fedff3955be281b3ed64b33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76012eb0d79f4577d8a7f941061d97a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f67f62952c3ed5dce574945a73de9f96/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25c9e93d787439a8535728fb26d8a399/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a303365a3c685f705d9c2db51fc8cfba/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:9:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e4ca4509eebfc6f7d322bbff247581a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e4ca4509eebfc6f7d322bbff247581a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bf73d1000101d68cf48df9fff1c0351e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bf73d1000101d68cf48df9fff1c0351e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:16:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:14:9-69
+activity#com.example.app1.MainActivity
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:17:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.app1.loginActivity
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:parentActivityName
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:26:13-71
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:25:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:29:13-31:65
+	android:value
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:31:17-62
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:30:17-63
+activity#com.example.app1.zhuceActivity
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:parentActivityName
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:33:19-64
+activity#com.example.test.InstrumentedActivity
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:41:9-42:68
+	android:label
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:41:19-58
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:42:13-65
+instrumentation
+ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:46:5-50:51
+	android:label
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:48:9-48
+	android:handleProfiling
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:47:9-39
+	android:targetPackage
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:50:9-49
+	android:name
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml:49:9-62
+uses-sdk
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/515bd9b8e32d1ac7946e76452c270b11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/515bd9b8e32d1ac7946e76452c270b11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e4ca4509eebfc6f7d322bbff247581a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5e4ca4509eebfc6f7d322bbff247581a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2e306e8a232b96563bf53d006582dfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2e306e8a232b96563bf53d006582dfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc6fc694a5b5d64df7befa26d1724129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cc6fc694a5b5d64df7befa26d1724129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/633a7d88765b43b12ea1e90688fcddec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/633a7d88765b43b12ea1e90688fcddec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70adb28b60adcfa3beefa8d3fce08495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/70adb28b60adcfa3beefa8d3fce08495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72aace34148b1910a119d005c274e501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72aace34148b1910a119d005c274e501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1a3c5e585339f261e6af677f10c3cd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1a3c5e585339f261e6af677f10c3cd95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1f7e6834f2c088dcfba8189956118f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1f7e6834f2c088dcfba8189956118f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/392592db2a2fb01add96eb7c9591f401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/392592db2a2fb01add96eb7c9591f401/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bee659e4b1cf2504e0dfa3b42f544807/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bee659e4b1cf2504e0dfa3b42f544807/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3500a014ca9b601f4855a88b1bbab989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3500a014ca9b601f4855a88b1bbab989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/36e68200353ebd6c944bd72e24329b76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/36e68200353ebd6c944bd72e24329b76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9f1db065929e3d4c19832ab8c43beb32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9f1db065929e3d4c19832ab8c43beb32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01d317d9cbc5208bd591e8bb9e8c2bad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/01d317d9cbc5208bd591e8bb9e8c2bad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/955092b4c476324445c9953121940d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bf73d1000101d68cf48df9fff1c0351e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bf73d1000101d68cf48df9fff1c0351e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dcc38c853057164286cb21c85262c5d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dcc38c853057164286cb21c85262c5d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d5831dd4cffaa3a90b266f9a8e1859f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2d5831dd4cffaa3a90b266f9a8e1859f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5cbd6b6c1cee4187eee8bebf4a317c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5cbd6b6c1cee4187eee8bebf4a317c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92a5a76627264e80c987806a8955e23c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92a5a76627264e80c987806a8955e23c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338e38b7b652ac895447512de85c0f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338e38b7b652ac895447512de85c0f21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/baccb5ac8fedff3955be281b3ed64b33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/baccb5ac8fedff3955be281b3ed64b33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76012eb0d79f4577d8a7f941061d97a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/76012eb0d79f4577d8a7f941061d97a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f67f62952c3ed5dce574945a73de9f96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f67f62952c3ed5dce574945a73de9f96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25c9e93d787439a8535728fb26d8a399/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25c9e93d787439a8535728fb26d8a399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a303365a3c685f705d9c2db51fc8cfba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangzhifeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a303365a3c685f705d9c2db51fc8cfba/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangzhifeng/data/100tal/JacocoTestForAndroid/app/src/main/AndroidManifest.xml
