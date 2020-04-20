@@ -81,10 +81,14 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
             out.write((byte[]) agent.getClass().getMethod("getExecutionData", boolean.class)
                     .invoke(agent, false));
 
-//
             // ec文件自动上报到服务器
             UploadService uploadService = new UploadService();
-            uploadService.start(mCoverageFilePath);
+            uploadService.start(mCoverageFilePath, new UploadService.UploadCallback() {
+                @Override
+                public void onSuccessful(String result) {
+                    finish(Activity.RESULT_OK, mResults);
+                }
+            });
 
         } catch (Exception e) {
             Log.d(TAG, e.toString(), e);
@@ -105,9 +109,7 @@ public class JacocoInstrumentation extends Instrumentation implements FinishList
         if (LOGD)      Log.d(TAG, "onActivityFinished()");
         if (mCoverage) {
             generateCoverageReport();
-
         }
-        // finish(Activity.RESULT_OK, mResults);
     }
 
     @Override

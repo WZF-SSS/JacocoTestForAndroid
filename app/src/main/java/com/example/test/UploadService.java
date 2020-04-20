@@ -2,6 +2,11 @@ package com.example.test;
 
 import java.io.File;
 import java.io.IOException;
+
+import android.app.Activity;
+import android.content.Context;
+import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 
 import com.example.test.DeviceUtils;
@@ -13,7 +18,7 @@ import okhttp3.*;
  */
 class UploadService extends Thread{
 
-    static void upload(String url, String filePath, String fileName) throws Exception {
+    void upload(String url, String filePath, String fileName,final UploadCallback uploadCallback) throws Exception {
 
         OkHttpClient client = new OkHttpClient();
 
@@ -40,24 +45,29 @@ class UploadService extends Thread{
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 String result = response.body().string();
+                if (uploadCallback!=null){
+                    uploadCallback.onSuccessful(result);
+                }
             }
-    });
+        });
     }
 
 
-    public void start(File file) {
+    public void start(File file, UploadCallback uploadCallback) {
 
         try {
             String fileName = "coverage.ec";
             String filePath = "/data/user/0/com.example.app1/files/coverage.ec";
             String url = "http://cover-server.xesv5.com/upload/up";
-            upload(url, filePath, fileName);
-//            System.out.println(upload(url, filePath, fileName).string());
+            upload(url, filePath, fileName,uploadCallback);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
+    public interface UploadCallback{
+        void onSuccessful(String result);
+    }
 
 
 }
